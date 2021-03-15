@@ -1,0 +1,14 @@
+*.jpg
+/results/*
+key.zip
+/src/__pycache__
+/dataset/*.zip
+/dataset/train
+/dataset/test
+full-data-run-*/
+efficientnet-b0/
+/optuna-full-data-run-0000.log
+/optuna_overfit.log
+/optuna-full-data-run-0001.log
+*.csv
+*.7z
